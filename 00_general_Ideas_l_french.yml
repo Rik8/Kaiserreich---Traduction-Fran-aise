@@ -1,0 +1,19 @@
+﻿l_french:
+ black_monday:0 "Lundi Noir"
+ very_low_popularity:0 "Popularité très basse du parti"
+ low_popularity:0 "Popularité basse du parti"
+ normal_popularity:0 "Popularité normale du parti"
+ high_popularity:0 "Popularité haute du parti"
+ very_high_popularity:0 "Popularité très haute du parti"
+ jet_aircraft_manufacturer:0 "Fabricant d'avion à réaction"
+ 
+ ###
+ independent_war:0 "Guerre d'indépendance"
+ independent_war_desc:0 "Ce pays est actuellement en pleine guerre d'indépendance. Il ne cherche pas à ce que d'autres pays soient directement impliqués dans ce conflit."
+ ### Generic Companies###
+ generic_arms_company:0 "Compagnie Générique d'Arme"
+ generic_tank_company:0 "Compagnie Générique de Tank"
+ generic_fighter_company:0 "Compagnie Générique d'Avion de Chasse"
+ generic_bomber_company:0 "Compagnie Générique de Bombardier"
+ generic_industrial_company:0 "Compagnie Générique Industriel"
+ generic_naval_company:0 "Compagnie Générique Navale"
