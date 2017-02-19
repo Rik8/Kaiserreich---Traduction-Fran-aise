@@ -11,7 +11,7 @@
  country_capitulated.0.d_neutral_prev_faction:0 "\nLe gouvernement de [Root.GetName] a choisi l'exil et ses forces principales ont capitulé face à [From.From.GetNameDef], qui contrôle désormais leur territoire.\n\nLes luttes entre [From.From.GetNameDef] et [Root.GetNameDef] n'étaient qu'une infime partie du conflit. La guerre entre [From.From.GetFactionName] et ce qu'il reste de [Root.GetFactionName] se poursuit ailleurs."
  country_capitulated.0.a:0 "Bonne nouvelle!"
  country_capitulated.0.b:0 "Les temps sont bien sombre!"
- country_capitulated.0.c:0 "Le temps est incertain!"
+ country_capitulated.0.c:0 "Les temps sont incertains!"
  ace_promoted.1.t:0 "Promotion d'un as"
  ace_promoted.2.t:0 "Apparition d'un as"
  ace_promoted.1.d:0 "Rares sont ceux à prendre autant de risques que les courageux pilotes de l'armée de l'air [Root.GetAdjective]. [From.GetName] [From.GetSurname], pilote hors pair connu sous le matricule [From.GetCallsign], a fait forte impression après avoir survécu à la récente mission menée au-dessus de [From.GetMissionRegion] et remporté d'importantes victoires.\n\nIllustration parfaite du courage [Root.GetAdjective], la récente promotion de [From.GetName] a été largement relayée. Bien que pour le peuple la guerre soit un fléau, beaucoup apprécient de disposer de héros auxquels se rallier."
