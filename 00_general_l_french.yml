@@ -1,20 +1,20 @@
 ﻿l_french:
 ### Autonomy ###
-autonomy_colony:1 "Autonomous Puppet"
+autonomy_colony:1 "Fantoche Autonome"
 
  ### Interface ###
- minister:1 "Ministers"
- research_production:1 "Companies"
- industrial_concern:1 "Company"
+ minister:1 "Ministres"
+ research_production:1 "Compagnies"
+ industrial_concern:1 "Compagnie"
  ###factions###
  Mittelmacht:0 "Mitteleuropa"
- Belgrade_Pact:0 "Belgrade Pact"
- Third_International:0 "Third Internationale"
- Mongolian_Alliance:0 "Great Khanate"
+ Belgrade_Pact:0 "Pacte de Belgrade"
+ Third_International:0 "Troisième Internationale"
+ Mongolian_Alliance:0 "Grand Khanat"
 
  ### Name and Description
- KR_SCENARIO_NAME:0 "Legacy of the Weltkrieg"
- KR_SCENARIO_DESC:0 "The year of 1936 is a turning point for the history of the world. Tensions between the German Empire and the Commune of France are growing, Russia and the USA are increasingly unstable and may soon drastically divert from the path they have been treading, while the old empires of Austria and Ottomans are dissolving and Syndicalism is spreading all around the world. Fifteen years have passed since the end of the Weltkrieg, and the old rivalries of yore seem to have reappeared. A single spark may be all it takes to light the powder keg..."
+ KR_SCENARIO_NAME:0 "L'Héritage de la Weltkrieg"
+ KR_SCENARIO_DESC:0 "L'année 1936 va marquer un tournant dans l'histoire du monde. Les tensions entre l'Empire Allemand et la Commune de France ne cessant de croître, la Russie et les États-Unis devenant de plus en plus instable et pourrait changer radicalement de voie d'ici peu, dans un même temps les empires Ottoman et Autrichien pourraient bien subir le coup de grâce alors que le Syndicalisme ne cesse de se répandre à travers le monde. Une quinzaine d'années sont passées depuis la fin de la Grande Guerre et d'anciennes rivalités réapparaissent. Une simple étincelle pourrait bien embraser le monde tout entier..."
 
  ### Germany
  GER_KR_GATHERING_STORM_DESC:0 "In 1919, after a five years of war, the German army finally overran the Entente defences in France. In 1921, Britain's surrender followed. The Weltkrieg has made her an uncontested World Power, yet things have been going downhill for Germany in the 1930s. A recessive world economy dampens the nation's industrial output while other nations' manufacturing power recovers, and nationalism grows in Germany's eastern client states, which are starting to drift away from the Reich. In 1936, Imperial Germany stands at a crossroads, and we can already see cracks in her mighty empire, as her ancestral enemies are regaining their former strength..."
