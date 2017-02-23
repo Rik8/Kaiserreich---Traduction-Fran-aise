@@ -1,4 +1,4 @@
-l_french:
+﻿l_french:
 
 ### Parties ####
 
@@ -17,7 +17,7 @@ l_french:
  NFA_paternal_autocratist_party_long:0 "Action Française"
  NFA_national_populist_party_long:0 "Jeunesses Patriotes"
  
- ### Idées ####
+ ### Idées #### 
  
  NFA_anti_communard:0 "Anti-Communard"
  NFA_anti_communard_desc:0 "Après la défaite de la Weltkrieg (qui se termina en 1919), les communards se sont encore soulevés et ont abolis notre République chérie. Heureusement, beaucoup des figures les plus importantes de la République ont immigrés vers l'Algérie où ils ont pu organiser la contre-révolution. Maintenant que les traîtres de syndicaliste ont pris complètement le pouvoir sur le continent, nous devons les écraser! Nous devons faire en sorte que notre France éternelle soit toujours libre!"
@@ -53,6 +53,7 @@ l_french:
  NFA_effort_national_idea:0 "Effort National"
  
  ### Compagnies ###
+ 
  schneider:0 "Schneider"
  machines_bull:0 "Compagnie des Machines Bull"
  compagnie_petroles:0 "Compagnie Française des Pétroles"
@@ -826,4 +827,4 @@ l_french:
  NFA_ceased_support_maquis:0 "A cessé de soutenir les Maquisards"
  NFA_continued_support_maquis:0 "A Continué de soutenir les Maquisards"
  NFA_let_install_south_france:0 "Nous a laissé prendre le Sud de la France"
-NFA_declared_war_maquis:0 "Nous a déclaré la guerre"
+ NFA_declared_war_maquis:0 "Nous a déclaré la guerre"
